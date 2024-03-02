@@ -21,12 +21,10 @@ Run the script:
 bash
 Copy code
 ./cis_compliance_checker.sh
-License
-This project is licensed under the MIT License.
+
 
 Contributing
 Contributions are welcome! Please feel free to submit a pull request.
 
 Acknowledgements
 This script was inspired by the CIS Benchmark and aims to automate the compliance checking process.
-Special thanks to contributors who have helped improve this scrip
